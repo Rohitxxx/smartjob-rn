@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "792258973551",
+    "project_id": "smartjob-job-finder",
+    "storage_bucket": "smartjob-job-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792258973551:android:f7da918e18c6b80a97e29a",
+        "android_client_info": {
+          "package_name": "info.smartjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792258973551-5hauou3vmf4a5thrbjjt6bslcup3sd2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.smartjob",
+            "certificate_hash": "fa7b38b1d1968aebed593bad44c57e1a65fc2926"
+          }
+        },
+        {
+          "client_id": "792258973551-jbnmcl35an76ag49k7agsumf6e4ptabf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.smartjob",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "792258973551-npbkm6estfpuuui41d2s5lrunpr2l5bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.smartjob",
+            "certificate_hash": "8ecfc155a3ce208e8f02e7ded5e999158b7f4b9b"
+          }
+        },
+        {
+          "client_id": "792258973551-ruh7d0r8mtbvtdan8hiottdlq210r7bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.smartjob",
+            "certificate_hash": "dccc162cedfff8460e7e886dac57abd5793761f3"
+          }
+        },
+        {
+          "client_id": "792258973551-rq7s58hkr2nam91ubsdhi5s3du3eqbd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5feRxS3P3j8M_VkbqXegAwxMFY0dtfSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792258973551-rq7s58hkr2nam91ubsdhi5s3du3eqbd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
